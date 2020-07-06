@@ -1,1 +1,1 @@
-# config-server
+# test spring config center
