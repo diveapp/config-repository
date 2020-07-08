@@ -1,2 +1,10 @@
 home-web:
   name: happy-home
+
+happy:
+  user:
+    name: 李言蹊
+    age: 1
+  animal:
+    nick: 十九
+    age: 1
